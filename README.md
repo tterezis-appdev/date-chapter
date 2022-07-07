@@ -34,11 +34,11 @@ Ruby released to the public on `December 21, 1995`.
 
 Should output:
 ```bash
-Is today Monday? true
+"Is today Monday? true"
 ```
 if today is Monday, or
 ```bash
-Is today Monday? false
+"Is today Monday? false"
 ```
 if today is _not_ Monday.
 
