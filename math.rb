@@ -6,7 +6,7 @@
 #
 #   "Ruby is 108937 days old!"
 #
-# Use exactly the same copy ("Ruby...") as above in the output.
+# Use exactly the same copy ("Ruby is...") as above in the output.
 # but replace values using string addition or string interpolation.
 
 

@@ -20,4 +20,6 @@ p "Ruby is #{days_between_to_integer} days old!"
 ## monday.rb
 
 ```ruby
+require "date"
+p "Is today Monday? #{Date.today.monday?}"
 ```
