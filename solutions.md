@@ -11,6 +11,10 @@ p "The year is: #{today.year}, the calendar day is: #{today.day}, and the month 
 ## math.rb
 
 ```ruby
+require "date"
+days_between = Date.today - Date.new(1995, 12, 21)
+days_between_to_integer = days_between.to_i
+p "Ruby is #{days_between_to_integer} days old!"
 ```
 
 ## monday.rb
